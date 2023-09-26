@@ -1,2 +1,13 @@
-The reliability of Wikipedia and its user-generated editing model, particularly its English-language edition, has been questioned and tested. Wikipedia is written and edited by volunteer editors who generate online content with the editorial oversight of other volunteer editors via community-generated policies and guidelines. This editing model is highly concentrated, as 77% of all articles are written by 1% of its editors, a majority of whom have chosen to remain anonymous.[1][2] The reliability of the project has been tested statistically through comparative review, analysis of the historical patterns, and strengths and weaknesses inherent in its editing process.[3] The online encyclopedia has been criticized for its factual reliability, principally regarding its content, presentation, and editorial processes. Studies and surveys attempting to gauge the reliability of Wikipedia have mixed results. Wikipedia's reliability was frequently criticized in the 2000s but has been improved; 
+The reliability of Wikipedia and its user-generated editing model,
+ particularly its English-language edition, has been questioned and tested.
+  Wikipedia is written and edited by volunteer editors who generate online 
+  content with the editorial oversight of other volunteer editors via community
+  -generated policies and guidelines. This editing model is highly concentrated, 
+  as 77% of all articles are written by 1% of its editors, a majority of whom have chosen to 
+  remain anonymous.[1][2] The reliability of the project has been tested statistically through
+   comparative review, analysis of the historical patterns, and strengths and weaknesses inherent
+    in its editing process.[3] The online encyclopedia has been criticized for its factual reliability, 
+    principally regarding its content, presentation, and editorial processes. Studies and surveys attempting 
+    to gauge the reliability of Wikipedia have mixed results. Wikipedia's reliability was frequently criticized 
+    in the 2000s but has been improved; 
 it has been generally praised in the late 2010s and early 2020s.[4][5][6]
